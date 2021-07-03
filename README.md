@@ -20,4 +20,4 @@
 
 ### Connect with me:
 [![Instagram](https://img.shields.io/badge/-instagram-090909?style=for-the-badge&logo=instagram)](https://www.instagram.com/senior_13j/)
-[![LinkedIn](https://img.shields.io/badge/%20-LinkedIn%20-informational](https://www.linkedin.com/in/arkadiy-kotlyarov-781aaa19a/)
+[![LinkedIn](https://img.shields.io/badge/%20-LinkedIn%20-informational)](https://www.linkedin.com/in/arkadiy-kotlyarov-781aaa19a/)
