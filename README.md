@@ -9,6 +9,9 @@
 
 - ⚡ Fun fact: My nickname is senior_13j almost everywhere
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=senior-13j&theme=dark&show_icons=true&hide=issues,contribs)](https://github.com/senior-13j/)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=senior-13j&theme=dark&hide=jupyter%20notebook,php,vue,html,css,go&langs_count=8&layout=compact)](https://github.com/senior-13j/)
+
 ### Languages and Tools:
 ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3)
