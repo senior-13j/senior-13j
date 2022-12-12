@@ -1,6 +1,6 @@
-### Hi there 👋, I'm Arkadiy
+### Hi there 👋, I'm Arkadii
 
-## I'm Middle Frontend Developer
+## I'm Middle+/Senior Frontend Developer
 
 - 💪 I like to write code
 - 🎉 I love playing guitar, computer games and swimming
