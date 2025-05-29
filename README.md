@@ -1,9 +1,9 @@
 ### Hi there 👋, I'm Arkadii
 
-## I'm Middle Frontend Developer
+## I'm Senior Frontend React & Web Engineer | React, NextJS, TS, DevOps
 
 - 💪 I like to write code
-- 🎉 I love playing guitar, computer games and swimming
+- 🎉 I love playing guitar, computer games and traveling
 - 🥅 I am constantly learning new technologies
 - 👯 I’m looking to collaborate on some React projects
 
@@ -35,5 +35,4 @@
 
 
 ### Connect with me:
-[![Instagram](https://img.shields.io/badge/-instagram-090909?style=for-the-badge&logo=instagram)](https://www.instagram.com/senior_13j/)
 [![LinkedIn](https://img.shields.io/badge/-linkedin-090909?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arkadiy-kotlyarov-781aaa19a/)
