@@ -35,4 +35,4 @@
 
 
 ### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-linkedin-090909?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arkadiy-kotlyarov-781aaa19a/)
+[![LinkedIn](https://img.shields.io/badge/-linkedin-090909?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/%E2%98%95-arkadii-kotliarov-781aaa19a/)
