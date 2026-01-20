@@ -1,13 +1,13 @@
 ### Hi there 👋, I'm Arkadii
 
-## I'm Senior Frontend React & Web Engineer | React, NextJS, TS, DevOps
+## I'm Senior Frontend React & Web Engineer | React, NextJS, TS, AI-SDK, DevOps
 
 - 💪 I like to write code
 - 🎉 I love playing guitar, computer games and traveling
 - 🥅 I am constantly learning new technologies
 - 👯 I’m looking to collaborate on some React projects
 
-- ⚡ Fun fact: My nickname is senior_13j almost everywhere
+- ⚡ Fun fact: My nickname is senior_13jwest almost everywhere
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=senior-13j&theme=dark&show_icons=true&hide=issues,contribs)](https://github.com/senior-13j/)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=senior-13j&theme=dark&hide=jupyter%20notebook,php,vue,html,css,go&langs_count=8&layout=compact)](https://github.com/senior-13j/)
