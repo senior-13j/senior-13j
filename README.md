@@ -21,7 +21,7 @@ Current direction:
 - Product-grade React and Next.js interfaces with clean state, forms, data fetching, charts, and accessibility.
 - Real-time dashboards and workflows using WebSockets, Socket.IO, event streams, and optimistic UI.
 - AI-assisted user experiences, from workflow automation to decision-support interfaces.
-- Full-stack portfolio systems with Node.js, MongoDB, SQL/Firebase experience, Redis, Kafka, Docker, tests, docs, and CI.
+- Full-stack portfolio systems with Node.js, MongoDB, SQL, Firebase, Redis, Kafka, Docker, tests, docs, and CI.
 - Frontend leadership: sprint task splitting, code review, UI architecture, and mentoring frontend developers.
 
 ## Featured Work
@@ -71,15 +71,14 @@ Current direction:
 - I verify work through linting, type checks, unit tests, browser QA, production builds, docs, and deployment notes.
 - I can lead frontend execution: split sprint work, review code, keep UI consistency, and unblock backend/API integration issues.
 
-## GitHub Snapshot
+## GitHub Profile Snapshot
 
-<div align="center">
-
-[![Arkadii's GitHub stats](https://github-readme-stats.vercel.app/api?username=senior-13j&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true)](https://github.com/senior-13j)
-
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=senior-13j&layout=compact&theme=github_dark&hide_border=true&hide=jupyter%20notebook,php,vue,html,css,go)](https://github.com/senior-13j)
-
-</div>
+| Area | Signal |
+| --- | --- |
+| Main public portfolio | `cryptoearner` and `lifetracker` |
+| Strongest language signal | TypeScript |
+| Current GitHub positioning | Senior frontend engineer with practical full-stack, realtime, QA, and delivery experience |
+| Best proof points | Rich README files, CI setup, Docker/runtime notes, tests, browser QA, deployment docs, and polished product screenshots |
 
 ## Contact
 
