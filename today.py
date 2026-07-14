@@ -12,37 +12,46 @@ import urllib.request
 
 USER_NAME = os.environ.get("USER_NAME", "senior-13j")
 TOKEN = os.environ.get("ACCESS_TOKEN") or os.environ.get("GITHUB_TOKEN") or ""
-LINKEDIN = "linkedin.com/in/arkadii-kotliarov-781aaa19a"
+LINKEDIN = "https://www.linkedin.com/in/%E2%98%95-arkadii-kotliarov-781aaa19a/"
 PROFILE_URL = f"https://github.com/{USER_NAME}/{USER_NAME}"
+HOST = "Senior Frontend React & Web Engineer | React, Next.js, TypeScript, AI, Realtime UX | DevOps"
+AVAILABILITY = "open to frontend and full-stack roles, learning DevOps to future transition"
+HOST_LINE_1 = "Senior Frontend React & Web Engineer | React, Next.js,"
+HOST_LINE_2 = HOST.removeprefix(f"{HOST_LINE_1} ")
+LINKEDIN_LINE_1 = "https://www.linkedin.com/in/"
+LINKEDIN_LINE_2 = LINKEDIN.removeprefix(LINKEDIN_LINE_1)
+AVAILABILITY_LINE_1 = "open to frontend and full-stack roles,"
+AVAILABILITY_LINE_2 = AVAILABILITY.removeprefix(f"{AVAILABILITY_LINE_1} ")
+SVG_WIDTH = 1120
+SVG_HEIGHT = 550
+RIGHT_X = 390
 
 ASCII_ART = [
-    ".   .........    ....                ",
-    " ..       ..       .                 ",
-    "              ..                     ",
-    ".  .                                 ",
-    " ....  .                             ",
-    "                  ..                 ",
-    "..  .     ..  .++**+-.     . ..      ",
-    "-===+=+*+*****%@%%@%*#-==+#**##*+-:::",
-    "***##########%@*++*+ =#**#%%%%##*++++",
-    "**######*#%%##%++++=  #*##%%%####*###",
-    "-=+====#+=+++##*#***+.+#**%@@%%**+*++",
-    ":::::::-:---=**+**:++ :**###@%#*+++++",
-    "+***+===+###%*+++*-.:  +++*++*#%%%%#%",
-    "==+*+-:-+****+*=+**-- -+===---==++*##",
-    "===+*+=*-:----=+++*=:.--=======----=-",
-    "==+++=**-:.....=+**=. ...:=*****====+",
-    "+**++++*+=====-==++-.  =***#*******##",
-    "###%###%%###@%==-===-  *#%##%%%%%%%%%",
-    "@@@%@@%%%@@@@@===-==: +#%@%##+==-:::.",
-    "**==*#=-#@@@@@%=-----*@%@@@@%#+-::...",
-    "++===+*#@@@@@@@@*++*@@%@@@@@@@%#=:...",
-    "=+=+=*#@@@@@@@@@@@@@@@@@@@@@@@@@#+:..",
-    "+*++*=%@@@@@@@@@@@@@@@@@@@@@@@@@@%*-:",
-    "*++=++@@@@@@@@@@@@@@@@@@%@@@@@@@@@@#.",
-    "==+==#@@@@@@@@@@@@@@@@@@%@@@@@@@@@%= ",
-    "#####@@@@@@@@@@@@@@@@@@@%@@@@%@@@*+==",
-    "%%%#@@@@@@@@@@@@@@@@@@@%@@@@%:-+=:-++",
+    "        .-==++++++++++++==-.        ",
+    "     .-+####################+-.     ",
+    "    +##########################+    ",
+    "   *###########********#########*   ",
+    "  *########*=-::::::::-=*########*  ",
+    " +#######=:.            .:=#######+ ",
+    ".######-.    .-======-.    -######.",
+    "+#####:    .+##########+.    :####+",
+    "#####=    -####*+==+*####-    =####",
+    "#####:   .###+:      :+###.   :####",
+    "####*    +##=  .--  --. =##+   *###",
+    "####*    ##+    <>  <>   +##   *###",
+    "####*    +##.      __    .##+  *###",
+    "+####.   :##+    ----   +##:  .###+",
+    ".####=    +##*=.      .=*##+   =###.",
+    " +####+    =###*=-::-=*###=   +### ",
+    "  *####*.   :=*########*=:  .*###  ",
+    "   *####=.     .::::.     .=####   ",
+    "    +#####*=-.        .-=*####+    ",
+    "     =##########****#########=     ",
+    "    .+##########****#########+.    ",
+    "   .##########+:    :+#########.   ",
+    "   +#########-        -########+   ",
+    "  :#########+          +########:  ",
+    "  +########=            =########+ ",
 ]
 
 
@@ -171,7 +180,7 @@ def tspan(text, cls=None, x=None, y=None):
 
 def data_line(y, label, value, prefix=". ", value_cls="value"):
     return (
-        tspan(prefix, "cc", 390, y)
+        tspan(prefix, "cc", RIGHT_X, y)
         + tspan(label, "key")
         + ":"
         + tspan(dot_fill(label, value), "cc")
@@ -179,8 +188,25 @@ def data_line(y, label, value, prefix=". ", value_cls="value"):
     )
 
 
+def data_line_plain(y, label, value, prefix=". ", value_cls="value"):
+    return (
+        tspan(prefix, "cc", RIGHT_X, y)
+        + tspan(label, "key")
+        + ": "
+        + tspan(value, value_cls)
+    )
+
+
+def continuation_line(y, label, value, prefix=". ", value_cls="value"):
+    return (
+        tspan(prefix, "cc", RIGHT_X, y)
+        + tspan(" " * (len(label) + 2), "cc")
+        + tspan(value, value_cls)
+    )
+
+
 def section_line(y, label):
-    return tspan(f"- {label}", None, 390, y) + " " + "-" * 53
+    return tspan(f"- {label}", None, RIGHT_X, y) + " " + "-" * 68
 
 
 def render_svg(filename, stats):
@@ -193,26 +219,29 @@ def render_svg(filename, stats):
         (30, section_line(30, f"arkadii@{USER_NAME}")),
         (50, data_line(50, "OS", "Arch Linux, Hyprland, Web")),
         (70, data_line(70, "Uptime", stats["account_age"])),
-        (90, data_line(90, "Host", "Senior Frontend React Engineer")),
-        (110, data_line(110, "Kernel", "React, Next.js, TypeScript, AI SDK")),
-        (130, data_line(130, "IDE", "Cursor, VS Code, Codex CLI")),
-        (150, tspan(". ", "cc", 390, 150)),
-        (170, data_line(170, "Languages.Programming", "TypeScript, JavaScript, Python")),
-        (190, data_line(190, "Languages.Computer", "HTML, CSS, JSON, YAML, SQL")),
-        (210, data_line(210, "Languages.Real", "English, Russian")),
-        (230, tspan(". ", "cc", 390, 230)),
-        (250, data_line(250, "Focus.Frontend", "React, Next.js, realtime UX")),
-        (270, data_line(270, "Focus.Delivery", "CI/CD, Docker, QA, mentoring")),
+        (90, data_line_plain(90, "Host", HOST_LINE_1)),
+        (110, continuation_line(110, "Host", HOST_LINE_2)),
+        (130, data_line(130, "Kernel", "React, Next.js, TypeScript, AI SDK")),
+        (150, data_line(150, "IDE", "Cursor, VS Code, Codex CLI")),
+        (170, tspan(". ", "cc", RIGHT_X, 170)),
+        (190, data_line(190, "Languages.Programming", "TypeScript, JavaScript, Python")),
+        (210, data_line(210, "Languages.Computer", "HTML, CSS, JSON, YAML, SQL")),
+        (230, data_line(230, "Languages.Real", "English, Russian")),
+        (250, tspan(". ", "cc", RIGHT_X, 250)),
+        (270, data_line(270, "Focus.Frontend", "React, Next.js, realtime UX")),
+        (290, data_line(290, "Focus.Delivery", "CI/CD, Docker, QA, mentoring")),
         (310, section_line(310, "Contact")),
-        (330, data_line(330, "LinkedIn", LINKEDIN)),
-        (350, data_line(350, "GitHub", f"github.com/{USER_NAME}")),
-        (370, data_line(370, "Location", "Belgrade, Serbia")),
-        (390, data_line(390, "Availability", "open to senior frontend roles")),
-        (410, data_line(410, "Profile", "React, Next.js, TypeScript, AI UX")),
-        (450, section_line(450, "GitHub Stats")),
+        (330, data_line_plain(330, "LinkedIn", LINKEDIN_LINE_1)),
+        (350, continuation_line(350, "LinkedIn", LINKEDIN_LINE_2)),
+        (370, data_line(370, "GitHub", f"github.com/{USER_NAME}")),
+        (390, data_line(390, "Location", "Belgrade, Serbia")),
+        (410, data_line_plain(410, "Availability", AVAILABILITY_LINE_1)),
+        (430, continuation_line(430, "Availability", AVAILABILITY_LINE_2)),
+        (450, data_line(450, "Profile", "React, Next.js, TypeScript, AI UX")),
+        (470, section_line(470, "GitHub Stats")),
         (
-            470,
-            tspan(". ", "cc", 390, 470)
+            490,
+            tspan(". ", "cc", RIGHT_X, 490)
             + tspan("Repos", "key")
             + ":"
             + tspan(dot_fill("Repos", stats["public_repos"], 12), "cc")
@@ -228,8 +257,8 @@ def render_svg(filename, stats):
             + tspan(human_number(stats["stars"]), "value")
         ),
         (
-            490,
-            tspan(". ", "cc", 390, 490)
+            510,
+            tspan(". ", "cc", RIGHT_X, 510)
             + tspan("Commits", "key")
             + ":"
             + tspan(dot_fill("Commits", stats["commits"], 18), "cc")
@@ -241,8 +270,8 @@ def render_svg(filename, stats):
             + tspan(human_number(stats["followers"]), "value")
         ),
         (
-            510,
-            tspan(". ", "cc", 390, 510)
+            530,
+            tspan(". ", "cc", RIGHT_X, 530)
             + tspan("Code Footprint", "key")
             + ":"
             + tspan(dot_fill("Code Footprint", human_bytes(stats["code_bytes"]), 24), "cc")
@@ -256,12 +285,12 @@ def render_svg(filename, stats):
     ]
 
     ascii_lines = "\n".join(
-        tspan(line[:48], x=15, y=30 + i * 18) for i, line in enumerate(ASCII_ART)
+        tspan(line[:48], x=15, y=30 + i * 20) for i, line in enumerate(ASCII_ART)
     )
     data_lines = "\n".join(line for _, line in rows)
 
     svg = f"""<?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="530px" font-size="16px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="{SVG_WIDTH}px" height="{SVG_HEIGHT}px" font-size="16px" xml:space="preserve">
 <style>
 @font-face {{
 src: local('Consolas'), local('Consolas Bold');
@@ -277,11 +306,11 @@ size-adjust: 109%;
 .cc {{fill: {theme["comment"]};}}
 text, tspan {{white-space: pre;}}
 </style>
-<rect width="985px" height="530px" fill="{theme["bg"]}" rx="15"/>
+<rect width="{SVG_WIDTH}px" height="{SVG_HEIGHT}px" fill="{theme["bg"]}" rx="15"/>
 <text x="15" y="30" fill="{theme["fg"]}" class="ascii">
 {ascii_lines}
 </text>
-<text x="390" y="30" fill="{theme["fg"]}">
+<text x="{RIGHT_X}" y="30" fill="{theme["fg"]}">
 {data_lines}
 </text>
 </svg>

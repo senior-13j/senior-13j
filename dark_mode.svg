@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="530px" font-size="16px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="1120px" height="550px" font-size="16px" xml:space="preserve">
 <style>
 @font-face {
 src: local('Consolas'), local('Consolas Bold');
@@ -15,59 +15,60 @@ size-adjust: 109%;
 .cc {fill: #616e7f;}
 text, tspan {white-space: pre;}
 </style>
-<rect width="985px" height="530px" fill="#161b22" rx="15"/>
+<rect width="1120px" height="550px" fill="#161b22" rx="15"/>
 <text x="15" y="30" fill="#c9d1d9" class="ascii">
-<tspan x="15" y="30">.   .........    ....                </tspan>
-<tspan x="15" y="48"> ..       ..       .                 </tspan>
-<tspan x="15" y="66">              ..                     </tspan>
-<tspan x="15" y="84">.  .                                 </tspan>
-<tspan x="15" y="102"> ....  .                             </tspan>
-<tspan x="15" y="120">                  ..                 </tspan>
-<tspan x="15" y="138">..  .     ..  .++**+-.     . ..      </tspan>
-<tspan x="15" y="156">-===+=+*+*****%@%%@%*#-==+#**##*+-:::</tspan>
-<tspan x="15" y="174">***##########%@*++*+ =#**#%%%%##*++++</tspan>
-<tspan x="15" y="192">**######*#%%##%++++=  #*##%%%####*###</tspan>
-<tspan x="15" y="210">-=+====#+=+++##*#***+.+#**%@@%%**+*++</tspan>
-<tspan x="15" y="228">:::::::-:---=**+**:++ :**###@%#*+++++</tspan>
-<tspan x="15" y="246">+***+===+###%*+++*-.:  +++*++*#%%%%#%</tspan>
-<tspan x="15" y="264">==+*+-:-+****+*=+**-- -+===---==++*##</tspan>
-<tspan x="15" y="282">===+*+=*-:----=+++*=:.--=======----=-</tspan>
-<tspan x="15" y="300">==+++=**-:.....=+**=. ...:=*****====+</tspan>
-<tspan x="15" y="318">+**++++*+=====-==++-.  =***#*******##</tspan>
-<tspan x="15" y="336">###%###%%###@%==-===-  *#%##%%%%%%%%%</tspan>
-<tspan x="15" y="354">@@@%@@%%%@@@@@===-==: +#%@%##+==-:::.</tspan>
-<tspan x="15" y="372">**==*#=-#@@@@@%=-----*@%@@@@%#+-::...</tspan>
-<tspan x="15" y="390">++===+*#@@@@@@@@*++*@@%@@@@@@@%#=:...</tspan>
-<tspan x="15" y="408">=+=+=*#@@@@@@@@@@@@@@@@@@@@@@@@@#+:..</tspan>
-<tspan x="15" y="426">+*++*=%@@@@@@@@@@@@@@@@@@@@@@@@@@%*-:</tspan>
-<tspan x="15" y="444">*++=++@@@@@@@@@@@@@@@@@@%@@@@@@@@@@#.</tspan>
-<tspan x="15" y="462">==+==#@@@@@@@@@@@@@@@@@@%@@@@@@@@@%= </tspan>
-<tspan x="15" y="480">#####@@@@@@@@@@@@@@@@@@@%@@@@%@@@*+==</tspan>
-<tspan x="15" y="498">%%%#@@@@@@@@@@@@@@@@@@@%@@@@%:-+=:-++</tspan>
+<tspan x="15" y="30">        .-==++++++++++++==-.        </tspan>
+<tspan x="15" y="50">     .-+####################+-.     </tspan>
+<tspan x="15" y="70">    +##########################+    </tspan>
+<tspan x="15" y="90">   *###########********#########*   </tspan>
+<tspan x="15" y="110">  *########*=-::::::::-=*########*  </tspan>
+<tspan x="15" y="130"> +#######=:.            .:=#######+ </tspan>
+<tspan x="15" y="150">.######-.    .-======-.    -######.</tspan>
+<tspan x="15" y="170">+#####:    .+##########+.    :####+</tspan>
+<tspan x="15" y="190">#####=    -####*+==+*####-    =####</tspan>
+<tspan x="15" y="210">#####:   .###+:      :+###.   :####</tspan>
+<tspan x="15" y="230">####*    +##=  .--  --. =##+   *###</tspan>
+<tspan x="15" y="250">####*    ##+    &lt;&gt;  &lt;&gt;   +##   *###</tspan>
+<tspan x="15" y="270">####*    +##.      __    .##+  *###</tspan>
+<tspan x="15" y="290">+####.   :##+    ----   +##:  .###+</tspan>
+<tspan x="15" y="310">.####=    +##*=.      .=*##+   =###.</tspan>
+<tspan x="15" y="330"> +####+    =###*=-::-=*###=   +### </tspan>
+<tspan x="15" y="350">  *####*.   :=*########*=:  .*###  </tspan>
+<tspan x="15" y="370">   *####=.     .::::.     .=####   </tspan>
+<tspan x="15" y="390">    +#####*=-.        .-=*####+    </tspan>
+<tspan x="15" y="410">     =##########****#########=     </tspan>
+<tspan x="15" y="430">    .+##########****#########+.    </tspan>
+<tspan x="15" y="450">   .##########+:    :+#########.   </tspan>
+<tspan x="15" y="470">   +#########-        -########+   </tspan>
+<tspan x="15" y="490">  :#########+          +########:  </tspan>
+<tspan x="15" y="510">  +########=            =########+ </tspan>
 </text>
 <text x="390" y="30" fill="#c9d1d9">
-<tspan x="390" y="30">- arkadii@senior-13j</tspan> -----------------------------------------------------
+<tspan x="390" y="30">- arkadii@senior-13j</tspan> --------------------------------------------------------------------
 <tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">Arch Linux, Hyprland, Web</tspan>
 <tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">7y 6m 17d</tspan>
-<tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">Senior Frontend React Engineer</tspan>
-<tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">React, Next.js, TypeScript, AI SDK</tspan>
-<tspan x="390" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">Cursor, VS Code, Codex CLI</tspan>
-<tspan x="390" y="150" class="cc">. </tspan>
-<tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Languages.Programming</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">TypeScript, JavaScript, Python</tspan>
-<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Languages.Computer</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">HTML, CSS, JSON, YAML, SQL</tspan>
-<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Languages.Real</tspan>:<tspan class="cc"> ... </tspan><tspan class="value">English, Russian</tspan>
-<tspan x="390" y="230" class="cc">. </tspan>
-<tspan x="390" y="250" class="cc">. </tspan><tspan class="key">Focus.Frontend</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">React, Next.js, realtime UX</tspan>
-<tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Focus.Delivery</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">CI/CD, Docker, QA, mentoring</tspan>
-<tspan x="390" y="310">- Contact</tspan> -----------------------------------------------------
-<tspan x="390" y="330" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">linkedin.com/in/arkadii-kotliarov-781aaa19a</tspan>
-<tspan x="390" y="350" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">github.com/senior-13j</tspan>
-<tspan x="390" y="370" class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">Belgrade, Serbia</tspan>
-<tspan x="390" y="390" class="cc">. </tspan><tspan class="key">Availability</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">open to senior frontend roles</tspan>
-<tspan x="390" y="410" class="cc">. </tspan><tspan class="key">Profile</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">React, Next.js, TypeScript, AI UX</tspan>
-<tspan x="390" y="450">- GitHub Stats</tspan> -----------------------------------------------------
-<tspan x="390" y="470" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> ... </tspan><tspan class="value">20</tspan> {<tspan class="key">Original</tspan>: <tspan class="value">5</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">4</tspan>
-<tspan x="390" y="490" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">41</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">30</tspan>
-<tspan x="390" y="510" class="cc">. </tspan><tspan class="key">Code Footprint</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">584.3 KB</tspan> ( <tspan class="addColor">TypeScript 457.7 KB</tspan>, <tspan class="delColor">Other 126.6 KB</tspan> )
+<tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>: <tspan class="value">Senior Frontend React &amp; Web Engineer | React, Next.js,</tspan>
+<tspan x="390" y="110" class="cc">. </tspan><tspan class="cc">      </tspan><tspan class="value">TypeScript, AI, Realtime UX | DevOps</tspan>
+<tspan x="390" y="130" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">React, Next.js, TypeScript, AI SDK</tspan>
+<tspan x="390" y="150" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">Cursor, VS Code, Codex CLI</tspan>
+<tspan x="390" y="170" class="cc">. </tspan>
+<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Languages.Programming</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">TypeScript, JavaScript, Python</tspan>
+<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Languages.Computer</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">HTML, CSS, JSON, YAML, SQL</tspan>
+<tspan x="390" y="230" class="cc">. </tspan><tspan class="key">Languages.Real</tspan>:<tspan class="cc"> ... </tspan><tspan class="value">English, Russian</tspan>
+<tspan x="390" y="250" class="cc">. </tspan>
+<tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Focus.Frontend</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">React, Next.js, realtime UX</tspan>
+<tspan x="390" y="290" class="cc">. </tspan><tspan class="key">Focus.Delivery</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">CI/CD, Docker, QA, mentoring</tspan>
+<tspan x="390" y="310">- Contact</tspan> --------------------------------------------------------------------
+<tspan x="390" y="330" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>: <tspan class="value">https://www.linkedin.com/in/</tspan>
+<tspan x="390" y="350" class="cc">. </tspan><tspan class="cc">          </tspan><tspan class="value">%E2%98%95-arkadii-kotliarov-781aaa19a/</tspan>
+<tspan x="390" y="370" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">github.com/senior-13j</tspan>
+<tspan x="390" y="390" class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">Belgrade, Serbia</tspan>
+<tspan x="390" y="410" class="cc">. </tspan><tspan class="key">Availability</tspan>: <tspan class="value">open to frontend and full-stack roles,</tspan>
+<tspan x="390" y="430" class="cc">. </tspan><tspan class="cc">              </tspan><tspan class="value">learning DevOps to future transition</tspan>
+<tspan x="390" y="450" class="cc">. </tspan><tspan class="key">Profile</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">React, Next.js, TypeScript, AI UX</tspan>
+<tspan x="390" y="470">- GitHub Stats</tspan> --------------------------------------------------------------------
+<tspan x="390" y="490" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> ... </tspan><tspan class="value">20</tspan> {<tspan class="key">Original</tspan>: <tspan class="value">5</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">4</tspan>
+<tspan x="390" y="510" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">42</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">30</tspan>
+<tspan x="390" y="530" class="cc">. </tspan><tspan class="key">Code Footprint</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">584.3 KB</tspan> ( <tspan class="addColor">TypeScript 457.7 KB</tspan>, <tspan class="delColor">Other 126.6 KB</tspan> )
 </text>
 </svg>
