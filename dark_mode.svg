@@ -17,31 +17,31 @@ text, tspan {white-space: pre;}
 </style>
 <rect width="1120px" height="550px" fill="#161b22" rx="15"/>
 <text x="15" y="30" fill="#c9d1d9" class="ascii">
-<tspan x="15" y="30">        .====================.       </tspan>
-<tspan x="15" y="50">       /                      \      </tspan>
-<tspan x="15" y="70">      /  .------.  .--------.  \     </tspan>
-<tspan x="15" y="90">     |  |  /\   | |        |  |    </tspan>
-<tspan x="15" y="110">     |  | /  \  | | .----. |  |    </tspan>
-<tspan x="15" y="130">     |  |/ /\ \ | | |    | |  |    </tspan>
-<tspan x="15" y="150">     |  | /__\ | | &#x27;----&#x27; |  |    </tspan>
-<tspan x="15" y="170">     |  |/_/  \| |        |  |    </tspan>
-<tspan x="15" y="190">     |  &#x27;------&#x27;  &#x27;--------&#x27;  |    </tspan>
-<tspan x="15" y="210">     |                          |    </tspan>
-<tspan x="15" y="230">     |  .--------------------.  |    </tspan>
-<tspan x="15" y="250">     |  | .----. .----. .--. |  |    </tspan>
-<tspan x="15" y="270">     |  | |    | |    | |  | |  |    </tspan>
-<tspan x="15" y="290">     |  | &#x27;----&#x27; &#x27;----&#x27; &#x27;--&#x27; |  |    </tspan>
-<tspan x="15" y="310">     |  &#x27;--------------------&#x27;  |    </tspan>
-<tspan x="15" y="330">     |                          |    </tspan>
-<tspan x="15" y="350">     |__________________________|    </tspan>
-<tspan x="15" y="370">        &#x27;--------------------&#x27;       </tspan>
-<tspan x="15" y="390">          /________________\        </tspan>
-<tspan x="15" y="410">       .-/__________________\-.     </tspan>
-<tspan x="15" y="430">     .`________________________`.    </tspan>
-<tspan x="15" y="450">    /____________________________\   </tspan>
-<tspan x="15" y="470">   /______________________________\  </tspan>
-<tspan x="15" y="490">  &#x27;================================&#x27; </tspan>
-<tspan x="15" y="510">        .====================.       </tspan>
+<tspan x="15" y="30"></tspan>
+<tspan x="15" y="50"></tspan>
+<tspan x="15" y="70"></tspan>
+<tspan x="15" y="90"></tspan>
+<tspan x="15" y="110"></tspan>
+<tspan x="15" y="130">    ++++++++=-::.:-==::::-=====+=-</tspan>
+<tspan x="15" y="150">    +**####*-..  ......::=*++*=*=-</tspan>
+<tspan x="15" y="170">    =+*###*:....:--::....=-==-=---</tspan>
+<tspan x="15" y="190">    ######-.::-+*******=..-====-=-</tspan>
+<tspan x="15" y="210">    -----: ..-+********+: .+=++++=</tspan>
+<tspan x="15" y="230">    :::--...-=====+*+=--: .::--:--</tspan>
+<tspan x="15" y="250">    =====:.:+*++-=+*====+.:::----:</tspan>
+<tspan x="15" y="270">    ::----:=+*******+++*+:::::::::</tspan>
+<tspan x="15" y="290">    ----=-:.+*****++==+++===##*++=</tspan>
+<tspan x="15" y="310">    ======-:=***=====--=+++*######</tspan>
+<tspan x="15" y="330">    ===++: -*******==++==****+====</tspan>
+<tspan x="15" y="350">    ++++.. =*#**++++=:  -++*---:--</tspan>
+<tspan x="15" y="370">    +-. .. .-******+=     =#--::::</tspan>
+<tspan x="15" y="390">    .        -=++++**=    =#=-::.:</tspan>
+<tspan x="15" y="410">              -***##**.   :**::-+*</tspan>
+<tspan x="15" y="430"></tspan>
+<tspan x="15" y="450"></tspan>
+<tspan x="15" y="470"></tspan>
+<tspan x="15" y="490"></tspan>
+<tspan x="15" y="510"></tspan>
 </text>
 <text x="390" y="30" fill="#c9d1d9">
 <tspan x="390" y="30">- arkadii@senior-13j</tspan> --------------------------------------------------------------------
@@ -67,7 +67,7 @@ text, tspan {white-space: pre;}
 <tspan x="390" y="430" class="cc">. </tspan><tspan class="cc">              </tspan><tspan class="value">learning DevOps to future transition</tspan>
 <tspan x="390" y="450" class="cc">. </tspan><tspan class="key">Profile</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">React, Next.js, TypeScript, AI UX</tspan>
 <tspan x="390" y="470">- GitHub Stats</tspan> --------------------------------------------------------------------
-<tspan x="390" y="490" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> ... </tspan><tspan class="value">20</tspan> {<tspan class="key">Original</tspan>: <tspan class="value">5</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">4</tspan>
+<tspan x="390" y="490" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> ... </tspan><tspan class="value">21</tspan> {<tspan class="key">Original</tspan>: <tspan class="value">5</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">4</tspan>
 <tspan x="390" y="510" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">45</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">30</tspan>
 <tspan x="390" y="530" class="cc">. </tspan><tspan class="key">Code Footprint</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">585.6 KB</tspan> ( <tspan class="addColor">TypeScript 457.7 KB</tspan>, <tspan class="delColor">Other 127.8 KB</tspan> )
 </text>
