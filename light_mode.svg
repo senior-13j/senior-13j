@@ -68,6 +68,6 @@ text, tspan {white-space: pre;}
 <tspan x="390" y="450">- GitHub Stats</tspan> -----------------------------------------------------
 <tspan x="390" y="470" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> ... </tspan><tspan class="value">20</tspan> {<tspan class="key">Original</tspan>: <tspan class="value">5</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">4</tspan>
 <tspan x="390" y="490" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">41</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">30</tspan>
-<tspan x="390" y="510" class="cc">. </tspan><tspan class="key">Code Footprint</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">573.6 KB</tspan> ( <tspan class="addColor">TypeScript 457.7 KB</tspan>, <tspan class="delColor">Other 115.9 KB</tspan> )
+<tspan x="390" y="510" class="cc">. </tspan><tspan class="key">Code Footprint</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">584.3 KB</tspan> ( <tspan class="addColor">TypeScript 457.7 KB</tspan>, <tspan class="delColor">Other 126.6 KB</tspan> )
 </text>
 </svg>
