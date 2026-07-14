@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="530px" font-size="16px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #ffa657;}
+.value {fill: #a5d6ff;}
+.addColor {fill: #3fb950;}
+.delColor {fill: #f85149;}
+.cc {fill: #616e7f;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="985px" height="530px" fill="#161b22" rx="15"/>
+<text x="15" y="30" fill="#c9d1d9" class="ascii">
+<tspan x="15" y="30">.   .........    ....                </tspan>
+<tspan x="15" y="48"> ..       ..       .                 </tspan>
+<tspan x="15" y="66">              ..                     </tspan>
+<tspan x="15" y="84">.  .                                 </tspan>
+<tspan x="15" y="102"> ....  .                             </tspan>
+<tspan x="15" y="120">                  ..                 </tspan>
+<tspan x="15" y="138">..  .     ..  .++**+-.     . ..      </tspan>
+<tspan x="15" y="156">-===+=+*+*****%@%%@%*#-==+#**##*+-:::</tspan>
+<tspan x="15" y="174">***##########%@*++*+ =#**#%%%%##*++++</tspan>
+<tspan x="15" y="192">**######*#%%##%++++=  #*##%%%####*###</tspan>
+<tspan x="15" y="210">-=+====#+=+++##*#***+.+#**%@@%%**+*++</tspan>
+<tspan x="15" y="228">:::::::-:---=**+**:++ :**###@%#*+++++</tspan>
+<tspan x="15" y="246">+***+===+###%*+++*-.:  +++*++*#%%%%#%</tspan>
+<tspan x="15" y="264">==+*+-:-+****+*=+**-- -+===---==++*##</tspan>
+<tspan x="15" y="282">===+*+=*-:----=+++*=:.--=======----=-</tspan>
+<tspan x="15" y="300">==+++=**-:.....=+**=. ...:=*****====+</tspan>
+<tspan x="15" y="318">+**++++*+=====-==++-.  =***#*******##</tspan>
+<tspan x="15" y="336">###%###%%###@%==-===-  *#%##%%%%%%%%%</tspan>
+<tspan x="15" y="354">@@@%@@%%%@@@@@===-==: +#%@%##+==-:::.</tspan>
+<tspan x="15" y="372">**==*#=-#@@@@@%=-----*@%@@@@%#+-::...</tspan>
+<tspan x="15" y="390">++===+*#@@@@@@@@*++*@@%@@@@@@@%#=:...</tspan>
+<tspan x="15" y="408">=+=+=*#@@@@@@@@@@@@@@@@@@@@@@@@@#+:..</tspan>
+<tspan x="15" y="426">+*++*=%@@@@@@@@@@@@@@@@@@@@@@@@@@%*-:</tspan>
+<tspan x="15" y="444">*++=++@@@@@@@@@@@@@@@@@@%@@@@@@@@@@#.</tspan>
+<tspan x="15" y="462">==+==#@@@@@@@@@@@@@@@@@@%@@@@@@@@@%= </tspan>
+<tspan x="15" y="480">#####@@@@@@@@@@@@@@@@@@@%@@@@%@@@*+==</tspan>
+<tspan x="15" y="498">%%%#@@@@@@@@@@@@@@@@@@@%@@@@%:-+=:-++</tspan>
+</text>
+<text x="390" y="30" fill="#c9d1d9">
+<tspan x="390" y="30">- arkadii@senior-13j</tspan> -----------------------------------------------------
+<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">Arch Linux, Hyprland, Web</tspan>
+<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">7y 6m 17d</tspan>
+<tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">Senior Frontend React Engineer</tspan>
+<tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">React, Next.js, TypeScript, AI SDK</tspan>
+<tspan x="390" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">Cursor, VS Code, Codex CLI</tspan>
+<tspan x="390" y="150" class="cc">. </tspan>
+<tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Languages.Programming</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">TypeScript, JavaScript, Python</tspan>
+<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Languages.Computer</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">HTML, CSS, JSON, YAML, SQL</tspan>
+<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Languages.Real</tspan>:<tspan class="cc"> ... </tspan><tspan class="value">English, Russian</tspan>
+<tspan x="390" y="230" class="cc">. </tspan>
+<tspan x="390" y="250" class="cc">. </tspan><tspan class="key">Focus.Frontend</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">React, Next.js, realtime UX</tspan>
+<tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Focus.Delivery</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">CI/CD, Docker, QA, mentoring</tspan>
+<tspan x="390" y="310">- Contact</tspan> -----------------------------------------------------
+<tspan x="390" y="330" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">linkedin.com/in/arkadii-kotliarov-781aaa19a</tspan>
+<tspan x="390" y="350" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">github.com/senior-13j</tspan>
+<tspan x="390" y="370" class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">Belgrade, Serbia</tspan>
+<tspan x="390" y="390" class="cc">. </tspan><tspan class="key">Availability</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">open to senior frontend roles</tspan>
+<tspan x="390" y="410" class="cc">. </tspan><tspan class="key">Profile</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">React, Next.js, TypeScript, AI UX</tspan>
+<tspan x="390" y="450">- GitHub Stats</tspan> -----------------------------------------------------
+<tspan x="390" y="470" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> ... </tspan><tspan class="value">20</tspan> {<tspan class="key">Original</tspan>: <tspan class="value">5</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">4</tspan>
+<tspan x="390" y="490" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">41</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">30</tspan>
+<tspan x="390" y="510" class="cc">. </tspan><tspan class="key">Code Footprint</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">573.6 KB</tspan> ( <tspan class="addColor">TypeScript 457.7 KB</tspan>, <tspan class="delColor">Other 115.9 KB</tspan> )
+</text>
+</svg>
