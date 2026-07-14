@@ -24,12 +24,12 @@ AVAILABILITY_LINE_1 = "open to frontend and full-stack roles,"
 AVAILABILITY_LINE_2 = AVAILABILITY.removeprefix(f"{AVAILABILITY_LINE_1} ")
 SVG_WIDTH = 1120
 SVG_HEIGHT = 550
-RIGHT_X = 390
+RIGHT_X = 420
 ASCII_X = 15
 ASCII_Y = 40
 ASCII_STEP = 20
-ASCII_SCALE_X = 1.16
-ASCII_SCALE_Y = 1.58
+ASCII_SCALE_X = 1.34
+ASCII_SCALE_Y = 1.34
 
 ASCII_ART = [
     "++++++++=-::.:-==::::-=====+=-",
@@ -201,7 +201,7 @@ def continuation_line(y, label, value, prefix=". ", value_cls="value"):
 
 
 def section_line(y, label):
-    return tspan(f"- {label}", None, RIGHT_X, y) + " " + "-" * 68
+    return tspan(f"- {label}", None, RIGHT_X, y) + " " + "-" * 62
 
 
 def render_svg(filename, stats):

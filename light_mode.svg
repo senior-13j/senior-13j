@@ -16,7 +16,7 @@ size-adjust: 109%;
 text, tspan {white-space: pre;}
 </style>
 <rect width="1120px" height="550px" fill="#f6f8fa" rx="15"/>
-<text x="15" y="40" fill="#24292f" class="ascii" transform="scale(1.16 1.58)">
+<text x="15" y="40" fill="#24292f" class="ascii" transform="scale(1.34 1.34)">
 <tspan x="15" y="40">++++++++=-::.:-==::::-=====+=-</tspan>
 <tspan x="15" y="60">+**####*-..  ......::=*++*=*=-</tspan>
 <tspan x="15" y="80">=+*###*:....:--::....=-==-=---</tspan>
@@ -33,32 +33,32 @@ text, tspan {white-space: pre;}
 <tspan x="15" y="300">.        -=++++**=    =#=-::.:</tspan>
 <tspan x="15" y="320">          -***##**.   :**::-+*</tspan>
 </text>
-<text x="390" y="30" fill="#24292f">
-<tspan x="390" y="30">- arkadii@senior-13j</tspan> --------------------------------------------------------------------
-<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">Arch Linux, Hyprland, Web</tspan>
-<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">7y 6m 17d</tspan>
-<tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>: <tspan class="value">Senior Frontend React &amp; Web Engineer | React, Next.js,</tspan>
-<tspan x="390" y="110" class="cc">. </tspan><tspan class="cc">      </tspan><tspan class="value">TypeScript, AI, Realtime UX | DevOps</tspan>
-<tspan x="390" y="130" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">React, Next.js, TypeScript, AI SDK</tspan>
-<tspan x="390" y="150" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">Cursor, VS Code, Codex CLI</tspan>
-<tspan x="390" y="170" class="cc">. </tspan>
-<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Languages.Programming</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">TypeScript, JavaScript, Python</tspan>
-<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Languages.Computer</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">HTML, CSS, JSON, YAML, SQL</tspan>
-<tspan x="390" y="230" class="cc">. </tspan><tspan class="key">Languages.Real</tspan>:<tspan class="cc"> ... </tspan><tspan class="value">English, Russian</tspan>
-<tspan x="390" y="250" class="cc">. </tspan>
-<tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Focus.Frontend</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">React, Next.js, realtime UX</tspan>
-<tspan x="390" y="290" class="cc">. </tspan><tspan class="key">Focus.Delivery</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">CI/CD, Docker, QA, mentoring</tspan>
-<tspan x="390" y="310">- Contact</tspan> --------------------------------------------------------------------
-<tspan x="390" y="330" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>: <tspan class="value">https://www.linkedin.com/in/</tspan>
-<tspan x="390" y="350" class="cc">. </tspan><tspan class="cc">          </tspan><tspan class="value">%E2%98%95-arkadii-kotliarov-781aaa19a/</tspan>
-<tspan x="390" y="370" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">github.com/senior-13j</tspan>
-<tspan x="390" y="390" class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">Belgrade, Serbia</tspan>
-<tspan x="390" y="410" class="cc">. </tspan><tspan class="key">Availability</tspan>: <tspan class="value">open to frontend and full-stack roles,</tspan>
-<tspan x="390" y="430" class="cc">. </tspan><tspan class="cc">              </tspan><tspan class="value">learning DevOps to future transition</tspan>
-<tspan x="390" y="450" class="cc">. </tspan><tspan class="key">Profile</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">React, Next.js, TypeScript, AI UX</tspan>
-<tspan x="390" y="470">- GitHub Stats</tspan> --------------------------------------------------------------------
-<tspan x="390" y="490" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> ... </tspan><tspan class="value">21</tspan> {<tspan class="key">Original</tspan>: <tspan class="value">5</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">4</tspan>
-<tspan x="390" y="510" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">46</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">30</tspan>
-<tspan x="390" y="530" class="cc">. </tspan><tspan class="key">Code Footprint</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">585.2 KB</tspan> ( <tspan class="addColor">TypeScript 457.7 KB</tspan>, <tspan class="delColor">Other 127.5 KB</tspan> )
+<text x="420" y="30" fill="#24292f">
+<tspan x="420" y="30">- arkadii@senior-13j</tspan> --------------------------------------------------------------
+<tspan x="420" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">Arch Linux, Hyprland, Web</tspan>
+<tspan x="420" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">7y 6m 17d</tspan>
+<tspan x="420" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>: <tspan class="value">Senior Frontend React &amp; Web Engineer | React, Next.js,</tspan>
+<tspan x="420" y="110" class="cc">. </tspan><tspan class="cc">      </tspan><tspan class="value">TypeScript, AI, Realtime UX | DevOps</tspan>
+<tspan x="420" y="130" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">React, Next.js, TypeScript, AI SDK</tspan>
+<tspan x="420" y="150" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">Cursor, VS Code, Codex CLI</tspan>
+<tspan x="420" y="170" class="cc">. </tspan>
+<tspan x="420" y="190" class="cc">. </tspan><tspan class="key">Languages.Programming</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">TypeScript, JavaScript, Python</tspan>
+<tspan x="420" y="210" class="cc">. </tspan><tspan class="key">Languages.Computer</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">HTML, CSS, JSON, YAML, SQL</tspan>
+<tspan x="420" y="230" class="cc">. </tspan><tspan class="key">Languages.Real</tspan>:<tspan class="cc"> ... </tspan><tspan class="value">English, Russian</tspan>
+<tspan x="420" y="250" class="cc">. </tspan>
+<tspan x="420" y="270" class="cc">. </tspan><tspan class="key">Focus.Frontend</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">React, Next.js, realtime UX</tspan>
+<tspan x="420" y="290" class="cc">. </tspan><tspan class="key">Focus.Delivery</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">CI/CD, Docker, QA, mentoring</tspan>
+<tspan x="420" y="310">- Contact</tspan> --------------------------------------------------------------
+<tspan x="420" y="330" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>: <tspan class="value">https://www.linkedin.com/in/</tspan>
+<tspan x="420" y="350" class="cc">. </tspan><tspan class="cc">          </tspan><tspan class="value">%E2%98%95-arkadii-kotliarov-781aaa19a/</tspan>
+<tspan x="420" y="370" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">github.com/senior-13j</tspan>
+<tspan x="420" y="390" class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">Belgrade, Serbia</tspan>
+<tspan x="420" y="410" class="cc">. </tspan><tspan class="key">Availability</tspan>: <tspan class="value">open to frontend and full-stack roles,</tspan>
+<tspan x="420" y="430" class="cc">. </tspan><tspan class="cc">              </tspan><tspan class="value">learning DevOps to future transition</tspan>
+<tspan x="420" y="450" class="cc">. </tspan><tspan class="key">Profile</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">React, Next.js, TypeScript, AI UX</tspan>
+<tspan x="420" y="470">- GitHub Stats</tspan> --------------------------------------------------------------
+<tspan x="420" y="490" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> ... </tspan><tspan class="value">21</tspan> {<tspan class="key">Original</tspan>: <tspan class="value">5</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">4</tspan>
+<tspan x="420" y="510" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">47</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">30</tspan>
+<tspan x="420" y="530" class="cc">. </tspan><tspan class="key">Code Footprint</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">585.2 KB</tspan> ( <tspan class="addColor">TypeScript 457.7 KB</tspan>, <tspan class="delColor">Other 127.5 KB</tspan> )
 </text>
 </svg>
