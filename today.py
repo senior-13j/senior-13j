@@ -14,13 +14,13 @@ USER_NAME = os.environ.get("USER_NAME", "senior-13j")
 TOKEN = os.environ.get("ACCESS_TOKEN") or os.environ.get("GITHUB_TOKEN") or ""
 LINKEDIN = "https://www.linkedin.com/in/%E2%98%95-arkadii-kotliarov-781aaa19a/"
 PROFILE_URL = f"https://github.com/{USER_NAME}/{USER_NAME}"
-HOST = "Senior Frontend React & Web Engineer | React, Next.js, TypeScript, AI, Realtime UX | DevOps"
-AVAILABILITY = "open to frontend and full-stack roles, learning DevOps to future transition"
-HOST_LINE_1 = "Senior Frontend React & Web Engineer | React, Next.js,"
+HOST = "Full-Stack Software Engineer | React, Next.js, TypeScript, Node.js | Realtime Systems"
+AVAILABILITY = "open to full-stack software engineering roles, remote and international teams"
+HOST_LINE_1 = "Full-Stack Software Engineer | React, Next.js,"
 HOST_LINE_2 = HOST.removeprefix(f"{HOST_LINE_1} ")
 LINKEDIN_LINE_1 = "https://www.linkedin.com/in/"
 LINKEDIN_LINE_2 = LINKEDIN.removeprefix(LINKEDIN_LINE_1)
-AVAILABILITY_LINE_1 = "open to frontend and full-stack roles,"
+AVAILABILITY_LINE_1 = "open to full-stack software engineering roles,"
 AVAILABILITY_LINE_2 = AVAILABILITY.removeprefix(f"{AVAILABILITY_LINE_1} ")
 SVG_WIDTH = 1120
 SVG_HEIGHT = 550
@@ -216,15 +216,15 @@ def render_svg(filename, stats):
         (70, data_line(70, "Uptime", stats["account_age"])),
         (90, data_line_plain(90, "Host", HOST_LINE_1)),
         (110, continuation_line(110, "Host", HOST_LINE_2)),
-        (130, data_line(130, "Kernel", "React, Next.js, TypeScript, AI SDK")),
-        (150, data_line(150, "IDE", "Cursor, VS Code, Codex CLI")),
+        (130, data_line(130, "Kernel", "React, Next.js, Node.js, Express")),
+        (150, data_line(150, "Delivery", "Docker, CI/CD, Railway, AWS Lambda")),
         (170, tspan(". ", "cc", RIGHT_X, 170)),
-        (190, data_line(190, "Languages.Programming", "TypeScript, JavaScript, Python")),
-        (210, data_line(210, "Languages.Computer", "HTML, CSS, JSON, YAML, SQL")),
+        (190, data_line(190, "Languages.Programming", "TypeScript, JavaScript, SQL")),
+        (210, data_line(210, "Languages.Computer", "HTML, CSS, JSON, YAML")),
         (230, data_line(230, "Languages.Real", "English, Russian")),
         (250, tspan(". ", "cc", RIGHT_X, 250)),
         (270, data_line(270, "Focus.Frontend", "React, Next.js, realtime UX")),
-        (290, data_line(290, "Focus.Delivery", "CI/CD, Docker, QA, mentoring")),
+        (290, data_line(290, "Focus.Backend", "Node.js, Express, Convex, REST APIs")),
         (310, section_line(310, "Contact")),
         (330, data_line_plain(330, "LinkedIn", LINKEDIN_LINE_1)),
         (350, continuation_line(350, "LinkedIn", LINKEDIN_LINE_2)),
@@ -232,7 +232,7 @@ def render_svg(filename, stats):
         (390, data_line(390, "Location", "Belgrade, Serbia")),
         (410, data_line_plain(410, "Availability", AVAILABILITY_LINE_1)),
         (430, continuation_line(430, "Availability", AVAILABILITY_LINE_2)),
-        (450, data_line(450, "Profile", "React, Next.js, TypeScript, AI UX")),
+        (450, data_line(450, "Data", "MongoDB, PostgreSQL, Redis, Kafka")),
         (470, section_line(470, "GitHub Stats")),
         (
             490,
