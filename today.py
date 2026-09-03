@@ -12,7 +12,8 @@ import urllib.request
 
 USER_NAME = os.environ.get("USER_NAME", "senior-13j")
 TOKEN = os.environ.get("ACCESS_TOKEN") or os.environ.get("GITHUB_TOKEN") or ""
-LINKEDIN = "https://www.linkedin.com/in/%E2%98%95-arkadii-kotliarov-781aaa19a/"
+LINKEDIN = "https://www.linkedin.com/in/arkadii-kotliarov-781aaa19a/"
+GAME_URL = "https://arkadii.world/game/"
 PROFILE_URL = f"https://github.com/{USER_NAME}/{USER_NAME}"
 HOST = "Full-Stack Software Engineer | React, Next.js, TypeScript, Node.js | Realtime Systems"
 AVAILABILITY = "open to full-stack software engineering roles, remote and international teams"
@@ -222,17 +223,17 @@ def render_svg(filename, stats):
         (190, data_line(190, "Languages.Programming", "TypeScript, JavaScript, SQL")),
         (210, data_line(210, "Languages.Computer", "HTML, CSS, JSON, YAML")),
         (230, data_line(230, "Languages.Real", "English, Russian")),
-        (250, tspan(". ", "cc", RIGHT_X, 250)),
+        (250, data_line(250, "Data", "MongoDB, PostgreSQL, Redis, Kafka")),
         (270, data_line(270, "Focus.Frontend", "React, Next.js, realtime UX")),
         (290, data_line(290, "Focus.Backend", "Node.js, Express, Convex, REST APIs")),
         (310, section_line(310, "Contact")),
         (330, data_line_plain(330, "LinkedIn", LINKEDIN_LINE_1)),
         (350, continuation_line(350, "LinkedIn", LINKEDIN_LINE_2)),
         (370, data_line(370, "GitHub", f"github.com/{USER_NAME}")),
-        (390, data_line(390, "Location", "Belgrade, Serbia")),
-        (410, data_line_plain(410, "Availability", AVAILABILITY_LINE_1)),
-        (430, continuation_line(430, "Availability", AVAILABILITY_LINE_2)),
-        (450, data_line(450, "Data", "MongoDB, PostgreSQL, Redis, Kafka")),
+        (390, data_line(390, "My Game", "arkadii.world/game/")),
+        (410, data_line(410, "Location", "Belgrade, Serbia")),
+        (430, data_line_plain(430, "Availability", AVAILABILITY_LINE_1)),
+        (450, continuation_line(450, "Availability", AVAILABILITY_LINE_2)),
         (470, section_line(470, "GitHub Stats")),
         (
             490,
@@ -322,6 +323,11 @@ def write_readme():
     <img alt="Arkadii Kotliarov's GitHub Profile README" src="https://raw.githubusercontent.com/{USER_NAME}/{USER_NAME}/main/light_mode.svg">
   </picture>
 </a>
+<p align="center">
+  <a href="{LINKEDIN}">LinkedIn</a>
+  &nbsp;•&nbsp;
+  <a href="{GAME_URL}">My game (project)</a>
+</p>
 """
     with open("README.md", "w", encoding="utf-8") as file:
         file.write(readme)

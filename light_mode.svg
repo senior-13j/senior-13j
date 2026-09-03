@@ -45,20 +45,20 @@ text, tspan {white-space: pre;}
 <tspan x="420" y="190" class="cc">. </tspan><tspan class="key">Languages.Programming</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">TypeScript, JavaScript, SQL</tspan>
 <tspan x="420" y="210" class="cc">. </tspan><tspan class="key">Languages.Computer</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">HTML, CSS, JSON, YAML</tspan>
 <tspan x="420" y="230" class="cc">. </tspan><tspan class="key">Languages.Real</tspan>:<tspan class="cc"> ... </tspan><tspan class="value">English, Russian</tspan>
-<tspan x="420" y="250" class="cc">. </tspan>
+<tspan x="420" y="250" class="cc">. </tspan><tspan class="key">Data</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">MongoDB, PostgreSQL, Redis, Kafka</tspan>
 <tspan x="420" y="270" class="cc">. </tspan><tspan class="key">Focus.Frontend</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">React, Next.js, realtime UX</tspan>
 <tspan x="420" y="290" class="cc">. </tspan><tspan class="key">Focus.Backend</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">Node.js, Express, Convex, REST APIs</tspan>
 <tspan x="420" y="310">- Contact</tspan> --------------------------------------------------------------
 <tspan x="420" y="330" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>: <tspan class="value">https://www.linkedin.com/in/</tspan>
-<tspan x="420" y="350" class="cc">. </tspan><tspan class="cc">          </tspan><tspan class="value">%E2%98%95-arkadii-kotliarov-781aaa19a/</tspan>
+<tspan x="420" y="350" class="cc">. </tspan><tspan class="cc">          </tspan><tspan class="value">arkadii-kotliarov-781aaa19a/</tspan>
 <tspan x="420" y="370" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">github.com/senior-13j</tspan>
-<tspan x="420" y="390" class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">Belgrade, Serbia</tspan>
-<tspan x="420" y="410" class="cc">. </tspan><tspan class="key">Availability</tspan>: <tspan class="value">open to full-stack software engineering roles,</tspan>
-<tspan x="420" y="430" class="cc">. </tspan><tspan class="cc">              </tspan><tspan class="value">remote and international teams</tspan>
-<tspan x="420" y="450" class="cc">. </tspan><tspan class="key">Data</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">MongoDB, PostgreSQL, Redis, Kafka</tspan>
+<tspan x="420" y="390" class="cc">. </tspan><tspan class="key">My Game</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">arkadii.world/game/</tspan>
+<tspan x="420" y="410" class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">Belgrade, Serbia</tspan>
+<tspan x="420" y="430" class="cc">. </tspan><tspan class="key">Availability</tspan>: <tspan class="value">open to full-stack software engineering roles,</tspan>
+<tspan x="420" y="450" class="cc">. </tspan><tspan class="cc">              </tspan><tspan class="value">remote and international teams</tspan>
 <tspan x="420" y="470">- GitHub Stats</tspan> --------------------------------------------------------------
 <tspan x="420" y="490" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> ... </tspan><tspan class="value">30</tspan> {<tspan class="key">Original</tspan>: <tspan class="value">5</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">4</tspan>
-<tspan x="420" y="510" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">49</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">33</tspan>
+<tspan x="420" y="510" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">50</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">33</tspan>
 <tspan x="420" y="530" class="cc">. </tspan><tspan class="key">Code Footprint</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">585.2 KB</tspan> ( <tspan class="addColor">TypeScript 457.7 KB</tspan>, <tspan class="delColor">Other 127.5 KB</tspan> )
 </text>
 </svg>
